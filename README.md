@@ -1,7 +1,7 @@
 ## Oii! Sou a Luiza Marques! :D
 <div>
-  Atualmente, estou envolvida com o projeto escolar @n3rds.ca no Instagram, onde desenvolvo posts de design e aplico conceitos aprendidos no curso de Desenvolvimento de Sistemas. O projeto me permite aplicar meu conhecimento técnico na prática, criando interfaces interativas e gerenciando conteúdo de forma estratégica. <br>
-  <br>Estudando Typescript & Javascript. 💜
+  Aluna da ETEC Prof. Camargo Aranha, do curso técnico em desenvolvimento de sistemas. <br>
+  <br>Estudando Java & PHP 💜
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
